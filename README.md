@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @hassantarif1
 - 👀 I’m interested in software enginnering and machine learning
-- 🌱 I’m currently learning entrepreneur 
+- 🌱 I’m currently learning entrepreneurship 
 - 💞️ I’m looking to collaborate on 
