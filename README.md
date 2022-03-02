@@ -13,4 +13,5 @@ My name is Hassan Tarif and I'm a software engineer. I love to solve problems an
 
 [![Hassan's github stats](https://github-personal-readme-stats.vercel.app/api?username=hassantarif1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hassantarif1&repo=https://github.com/hassantarif1/ArtShare)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hassan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassantarif1)](https://github.com/anuraghazra/github-readme-stats)
